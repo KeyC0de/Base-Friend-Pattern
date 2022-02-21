@@ -61,8 +61,8 @@ public:
 				<< ")\n";
 		}
 	
-		/// the User class (VertexBuffer) will now use the Resource class (Graphics) in whichever
-		///		way it deems fit
+		// the User class (VertexBuffer) will now use the Resource class (Graphics) in
+		// whichever way it deems fit
 		++getDevice( gph ).nFrame;
 	}
 };

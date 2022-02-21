@@ -1,7 +1,7 @@
-#include "application.h"
-#include <vector>
-#include "resource_class.h"
 #include <iostream>
+#include <vector>
+#include "application.h"
+#include "resource_class.h"
 
 
 Game::Game( int width, int height )
